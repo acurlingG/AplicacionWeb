@@ -1,2 +1,3 @@
 Programadores actualicen sus cambios
-programador 1 subi el diseno
+programador 1 subi el diseño
+programador 2 subir login
